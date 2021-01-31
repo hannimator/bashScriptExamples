@@ -9,7 +9,10 @@ Recently I was introduced to the world of bash scripts for a few things I wanted
 1. Clone this repository
 2. Find an executable file and place it in /installers (I used notepad++ installer that I had lying around in my Downloads folder)
 3. Replace all instances of "[yourInstallerHere]" with the name of the installer file. You can find them in these files:
-  ⋅⋅⋅runInstaller.sh
-  ⋅⋅⋅/common/commonAnywhereScript.sh
-  ⋅⋅⋅/common/commonScript.sh
+
+⋅⋅⋅runInstaller.sh
+
+⋅⋅⋅/common/commonAnywhereScript.sh
+
+⋅⋅⋅/common/commonScript.sh
   
