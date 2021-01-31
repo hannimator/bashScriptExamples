@@ -1,9 +1,3 @@
-
-
-#create backup folder
-
-#copy folder
-
 copyFolder=exampleFiles
 copiedFolder=backup
 
