@@ -6,5 +6,5 @@ text="releaseVersion86420"
 file="$root/textChanges.txt"
 
 delete_matching_lines "$text" "$file"
-run_installer "npp.7.8.8.Installer"
+run_installer "[yourInstallerHere]"
 
