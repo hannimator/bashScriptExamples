@@ -10,7 +10,7 @@ What you will learn
 * how to copy folders using bash scripts
 * how to run an installer
 * how to delete (or make it seem like you have deleted) text from a file
-* how to create and use a helper file for your functions
+* how to reference other bash scripts
 
 ### How To Use These Files
 
