@@ -11,4 +11,4 @@ run_installer(){
     explorer "$(cygpath -w "$file")"
 }
 
-run_installer "exampleFiles/installers/npp.7.8.8.Installer"
+run_installer "exampleFiles/installers/[yourInstallerHere]"
